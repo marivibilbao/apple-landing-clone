@@ -319,10 +319,8 @@
 }
 
 .footer-content {
-  margin-right: 10%;
-  margin-left: 10%;
-  padding-top: 20px;
-  margin-top: 34px;
+  margin: 0 auto;
+  max-width: 980px;
 }
 
 .text {
